@@ -1,1 +1,3 @@
-# bitrixtest2
+# bitriregistration
+
+Тестовое на регистрацию
